@@ -5,11 +5,9 @@
 
 ## aksara landing
 
-This is a repository for the landing page of Aksara, an AI-powered writing platform for human.
+AI-powered writing platform for human.
 
-Aksara is an open platform for everyone to write stories, share thoughts, debating stuff, and more! It's an AI-powered writing platform with some useful features, such as AI-assisted Summarization, AI-assisted Translation, AI-assisted Text Suggestion, AI-assisted Grammar Checker, AI-assisted Tag Suggestion, AI-assisted Title Suggestion, and AI-assisted Image Generation.
-
-This project is built using [Next](https://nextjs.org) and [TypeScript](https://typescriptlang.org).
+This is a repository for the landing page of Aksara. Built using [Next](https://nextjs.org) and [TypeScript](https://typescriptlang.org).
 
 > #### Disclaimer
 >
