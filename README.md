@@ -3,7 +3,7 @@
   <img alt="Vercel" src="https://deploy-badge.vercel.app?url=https://aksara.lazuardy.tech&logo=vercel&name=vercel" />
 </div>
 
-## aksara landing
+## aksara-inc/landing
 
 AI-powered writing platform for human.
 
