@@ -5,6 +5,10 @@
 
 ## aksara-inc/landing
 
+<img width="1440" alt="image" src="https://github.com/aksara-inc/landing/assets/24422019/2a9d22bc-231c-4585-bc61-4d2fafe29e91">
+
+<span></span>
+
 AI-powered writing platform for human.
 
 This is a repository for the landing page of Aksara. Built using [Next](https://nextjs.org) and [TypeScript](https://typescriptlang.org).
