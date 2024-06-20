@@ -27,7 +27,7 @@ export default function Page() {
             <Pricing />
           </div>
         </div>
-        {/* <Footer /> */}
+        <Footer />
       </GlowCapture>
     </div>
   );
